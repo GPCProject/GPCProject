@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Valentin</h1>
+  <h1>👋 Приветствую! Я — Валентин</h1>
   <h3>Python Developer | Automation | Bots | Web</h3>
 </div>
 
@@ -118,6 +118,8 @@
 <!-- ======== ENGLISH VERSION ======== -->
 
 <h2 id="english">🌐 English Version</h2>
+
+<h3>👋 Welcome! I'm Valentin</h3>
 
 ---
 
