@@ -90,7 +90,9 @@
 
 ## 📂 Проекты
 
-*(Скоро появятся — сейчас в разработке)*
+| Проект | Описание | Стек |
+|--------|----------|------|
+| **[switch9proxy](https://github.com/GPCProject/switch9proxy)** | Переключатель профилей для 9router. Изолированные workspace с разными провайдерами и OAuth | Node.js, SQLite, vanilla JS |
 
 ---
 
@@ -185,7 +187,9 @@ I build **application logic**, **web pages**, **server-side solutions** and **Te
 
 ## 📂 Projects
 
-*(Coming soon — currently in development)*
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[switch9proxy](https://github.com/GPCProject/switch9proxy)** | Profile switcher for 9router. Isolated workspaces with different providers and OAuth | Node.js, SQLite, vanilla JS |
 
 ---
 
